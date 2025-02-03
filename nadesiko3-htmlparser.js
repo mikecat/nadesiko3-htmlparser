@@ -140,7 +140,7 @@ export default {
       return o.html()
     }
   },
-  'HTML設定': { // @DOMにSを設定する // @HTML設定
+  'HTML設定': { // @DOMにSを設定する // @HTMLせってい
     type: 'func',
     josi: [['に', 'へ'], ['を']],
     fn: function (dom, s, sys) {
